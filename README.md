@@ -1,2 +1,4 @@
-# stat6306introdatascience
-Files and projects for Stat 6306 Introduction to Data Science
+# testrepo
+test repo 
+
+This is a Test Repository for MSDS 6306 - Doing Data Science
