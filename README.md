@@ -1,3 +1,2 @@
-# -testrepo
-
-This is my first repository for Unit 3 of the Data Science Class
+# stat6306introdatascience
+Files and projects for Stat 6306 Introduction to Data Science
